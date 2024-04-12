@@ -38,7 +38,6 @@ const SingleProject = ({ id, name, desc, tags, code, demo, image, theme }) => {
       desc={desc}
       tags={tags}
       code={code}
-      demo={demo}
       image={image}
       theme={theme}
     />
