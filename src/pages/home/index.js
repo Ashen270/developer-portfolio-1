@@ -19,11 +19,12 @@ function HomePage() {
             <Navbar />
             <Landing />
             <About />
-            <Experience />
+            <Education />
+            {/* <Experience /> */}
             <Skills />
             {/* <Certificate /> */}
             <Projects />
-            <Education />
+            
             <Contacts />
         </div>
     )
